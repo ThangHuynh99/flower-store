@@ -2,4 +2,4 @@
 Practice using HTML, CSS to create a responsive flower store website.
 
 visit page:
-- https://flower-store-thuy.netlify.app/
+- https://thanghuynh99.github.io/flower-store/ 
